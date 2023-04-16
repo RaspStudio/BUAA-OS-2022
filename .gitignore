@@ -1,0 +1,12 @@
+.vscode
+.idea
+*.o
+*.b
+*.x
+*.swp
+*~
+temp*
+/tags
+/gxemul/vmlinux
+/gxemul/fs*.img
+/user/fs/fsformat
